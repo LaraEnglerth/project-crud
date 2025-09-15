@@ -18,7 +18,7 @@ O objetivo é demonstrar a estrutura de um projeto Java organizado em camadas (C
 <img width="492" height="625" alt="image" src="https://github.com/user-attachments/assets/89df9749-e428-4363-a4f1-6d69b4958f96" />
 
 
-### Descrição das camadas:
+## Descrição das camadas:
 - **Controller** → recebe requisições HTTP e retorna respostas (`UsuarioController`);
 - **Service (business)** → contém regras de negócio (`UsuarioService`);
 - **Repository** → acesso ao banco via Spring Data JPA (`UsuarioRepository`);
