@@ -27,19 +27,19 @@ O objetivo é demonstrar a estrutura de um projeto Java organizado em camadas (C
 
 ## Endpoints da API:
 
-'*POST*'
+'**POST**'
 
 <img width="600" height="174" alt="image" src="https://github.com/user-attachments/assets/7a9c6395-0821-460d-a34a-6b77cb4cf65a" />
 
-'*GET*'
+'**GET**'
 
 <img width="501" height="133" alt="image" src="https://github.com/user-attachments/assets/b34f3fc1-1002-4fb2-aa6c-7ee0c93929b0" />
 
-'*PUT*'
+'**PUT**'
 
 <img width="612" height="154" alt="image" src="https://github.com/user-attachments/assets/c12146b4-c2b7-4ecf-abd6-daf321676a6e" />
 
-'*DELETE*'
+'**DELETE**'
 
 <img width="547" height="171" alt="image" src="https://github.com/user-attachments/assets/7d17b512-ac73-4288-9c53-2443ee6f3ec1" />
 
