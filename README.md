@@ -17,17 +17,7 @@ O objetivo é demonstrar a estrutura de um projeto Java organizado em camadas (C
 
 ## 📂 Estrutura do projeto
 
-project-crud
-└── src
-└── main
-└── java
-└── com.englerth.project_crud
-├── controller # Endpoints REST (UsuarioController)
-├── business # Regras de negócio (UsuarioService)
-├── infrastructure
-│ ├── entitys # Entidades JPA (Usuario)
-│ └── repository # Repositórios de acesso ao banco (UsuarioRepository)
-└── ProjectCrudApplication.java # Classe principal
+<img width="492" height="625" alt="image" src="https://github.com/user-attachments/assets/89df9749-e428-4363-a4f1-6d69b4958f96" />
 
 
 ### 🔹 Descrição das camadas
@@ -40,11 +30,4 @@ project-crud
 
 ## 📌 Endpoints da API
 
-### ➕ Criar usuário
-`POST /usuario`  
-Body (JSON):
-```json
-{
-  "nome": "Lara Englerth",
-  "email": "lara@email.com"
-}
+
